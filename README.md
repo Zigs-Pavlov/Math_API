@@ -1,8 +1,8 @@
-# Math Evaluation API Documentation
+# Math API Documentation
 
 ## Overview
 
-The **Math Evaluation API** is a RESTful web service designed to evaluate simple mathematical expressions provided as GET parameters. This API accepts only `GET` requests, performs basic validation on input expressions, and returns the evaluated result in JSON format.
+The **Math API** is a RESTful web service designed to evaluate simple mathematical expressions provided as GET parameters. This API accepts only `GET` requests, performs basic validation on input expressions, and returns the evaluated result in JSON format.
 
 ## API Endpoint
 
