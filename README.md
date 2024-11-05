@@ -25,17 +25,22 @@ The API responds with a JSON object. Responses can be:
 
 ```http
 GET https://pavlovhelp.lol/MATH_API?problem=2+2
+```
 
-Example Success Response
+# Example Success Response
 
+```json
 json
 
 {
   "problem": "2+2",
   "solution": 4
 }
+```
 
-Example Error Responses
+# Example Error Responses
+
+```json
 
     Invalid Input: If problem contains disallowed characters.
 
